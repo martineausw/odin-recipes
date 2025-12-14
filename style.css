@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(45, 55, 66);
+    color: lightgray;
+}
+
+img {
+    display: block;
+}
+
+a {
+    color: lightgray;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+ol,
+ul,
+img,
+.dir {
+    font-family: 'Calibri', 'Helvetica', sans-serif;
+    width: 640px;
+    margin: 0 auto;
+}
+
+h1, h2, h3, img {
+    text-align: center
+}
+
+h1 {
+    margin: 48px auto;
+}
+
+h2 {
+    margin: 48px auto 32px;
+}
+
+h3 {
+    margin: 48px auto 32px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 32px auto;
+}
+
+.dir a {
+    width: 200px;
+    margin: 32px auto;
+}
